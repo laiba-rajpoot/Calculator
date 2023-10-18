@@ -1,0 +1,22 @@
+{
+  "name": "laiba.simple.calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "module",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "simple-calculator": "bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.4"
+  }
+}
